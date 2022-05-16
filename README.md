@@ -1,6 +1,6 @@
 # Basic Calculator
 
-I've made this project using python and the framework Tkinker for the GUI.
+I've made this project using python and the framework Tkinter for the GUI.
 
 It does basic math operations and even reminds you to drink water!
 
