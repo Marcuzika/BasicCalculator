@@ -1,4 +1,4 @@
-# Basic Calculator
+# Basic Calculator 📱
 
 I've made this project using python and the framework Tkinter for the GUI.
 
